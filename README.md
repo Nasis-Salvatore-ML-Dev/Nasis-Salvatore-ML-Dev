@@ -1,12 +1,17 @@
 # Salvatore Nasisi
+ML engineer building production systems on AWS and GCP — fraud detection,
+computer vision, car pricing, ESG analytics — with CI/CD, EU AI Act
+compliance, and real deployments.
 
-ML engineer building production systems on AWS and GCP — fraud detection, computer vision, car pricing — with CI/CD, EU AI Act compliance, and real deployments.
-
-Previously a stress engineer at GE Aviation (EASA/FAR certification) and a PhD researcher in parametric model order reduction at CVUT Prague. Now applying the same rigour to ML systems.
+Previously a stress engineer at GE Aviation (EASA/FAR certification) and a
+PhD researcher in parametric model order reduction at CVUT Prague. Now
+applying the same engineering rigour to ML systems.
 
 ---
 
-**Current focus:** Applying ARIZ/function modeling to a fraud detection pipeline as a senior-level problem-solving differentiator.
+**Current focus:** Systematic inventive problem-solving applied to a fraud
+detection pipeline — function modeling, contradiction analysis, and
+structured solution derivation — as a senior-level engineering differentiator.
 
 ---
 
@@ -14,10 +19,12 @@ Previously a stress engineer at GE Aviation (EASA/FAR certification) and a PhD r
 
 | Project | Stack | Live |
 |---|---|---|
-| [Fraud Detection API](https://github.com/Nasis-Salvatore-ML-Dev/fraud-detection-api) | XGBoost · AWS Lambda · DynamoDB · GitHub Actions | ✅ |
+| [Fraud Detection API — Optimised](https://github.com/Nasis-Salvatore-ML-Dev/fraud-detection-opti) | XGBoost · ONNX · AWS Lambda · DynamoDB · Optuna · EU AI Act | ✅ |
+| [Fraud Detection API — Baseline](https://github.com/Nasis-Salvatore-ML-Dev/fraud-detection-api) | XGBoost · AWS Lambda · DynamoDB · GitHub Actions | ✅ |
 | [Car Valuation API](https://github.com/Nasis-Salvatore-ML-Dev/production-car-valuation-api) | Random Forest · AWS Lambda · SHAP · EU AI Act | ✅ |
 | [BMW Pricing Challenger](https://github.com/Nasis-Salvatore-ML-Dev/bmw-pricing-challenger) | Random Forest · FastAPI · GCP Cloud Run | ✅ |
 | [Aerospace Defect Detection](https://github.com/Nasis-Salvatore-ML-Dev/aerospace-defect-detection) | EfficientNetB0 · ONNX · TFLite · Grad-CAM | ✅ |
+| [ESG Intelligence Pipeline](https://github.com/Nasis-Salvatore-ML-Dev/esg-intelligence-pipeline) | NLP · LLM · FastAPI · GCP | ✅ |
 
 ---
 
@@ -29,4 +36,5 @@ Previously a stress engineer at GE Aviation (EASA/FAR certification) and a PhD r
 
 ---
 
-`Python` `C++` `AWS` `GCP` `Docker` `FastAPI` `XGBoost` `TensorFlow` `ONNX` `EU AI Act` `TRIZ/ARIZ`
+`Python` `C++` `AWS` `GCP` `Docker` `FastAPI` `XGBoost` `TensorFlow`
+`ONNX` `EU AI Act` `TRIZ/ARIZ`
