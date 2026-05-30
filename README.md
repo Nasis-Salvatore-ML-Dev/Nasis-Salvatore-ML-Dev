@@ -24,7 +24,7 @@ structured solution derivation — as a senior-level engineering differentiator.
 | [Car Valuation API](https://github.com/Nasis-Salvatore-ML-Dev/production-car-valuation-api) | Random Forest · AWS Lambda · SHAP · EU AI Act | ✅ |
 | [BMW Pricing Challenger](https://github.com/Nasis-Salvatore-ML-Dev/bmw-pricing-challenger) | Random Forest · FastAPI · GCP Cloud Run | ✅ |
 | [Aerospace Defect Detection](https://github.com/Nasis-Salvatore-ML-Dev/aerospace-defect-detection) | EfficientNetB0 · ONNX · TFLite · Grad-CAM | ✅ |
-| [ESG Intelligence Pipeline](https://github.com/Nasis-Salvatore-ML-Dev/esg-intelligence-pipeline) | NLP · LLM · FastAPI · GCP | ✅ |
+| [ESG Intelligence Pipeline](https://github.com/Nasis-Salvatore-ML-Dev/esg-intelligence-pipeline) | NLP · LLM · FastAPI · GCP · RAG |
 
 ---
 
