@@ -33,6 +33,7 @@ structured solution derivation — as a senior-level engineering differentiator.
 | Project | Stack |
 |---|---|
 | [NovaSolve](https://github.com/Nasis-Salvatore-ML-Dev/novasolve) | C++ numerical solver + PINN inference engine |
+| [InvenScope](https://github.com/Nasis-Salvatore-ML-Dev/invenscope) | We App for supporting scientific innovation |
 
 ---
 
