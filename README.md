@@ -9,9 +9,9 @@ applying the same engineering rigour to ML systems.
 
 ---
 
-**Current focus:** Systematic inventive problem-solving applied to a fraud
-detection pipeline — function modeling, contradiction analysis, and
-structured solution derivation — as a senior-level engineering differentiator.
+Substantia — an AI engineering system that captures the undocumented reasoning 
+behind aerospace structural analysis decisions, so the right method is chosen, 
+cited, and refused when it doesn't apply.
 
 ---
 
@@ -31,9 +31,10 @@ structured solution derivation — as a senior-level engineering differentiator.
 ### In progress
 
 | Project | Stack |
-|---|---|
+| --- | --- |
 | [NovaSolve](https://github.com/Nasis-Salvatore-ML-Dev/novasolve) | C++ numerical solver + PINN inference engine |
 | [InvenScope](https://github.com/Nasis-Salvatore-ML-Dev/invenscope) | Web App for supporting scientific innovation |
+| [Substantia](https://github.com/Nasis-Salvatore-ML-Dev/substantia) | AI engineering 
 
 ---
 
